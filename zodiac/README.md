@@ -1,4 +1,4 @@
-### Zodiac Signs Program
+# Zodiac Signs Program
 This is a simple program written in Rust that helps you determine your zodiac sign based on your birth date. It prompts the user to enter their name, birth month, and birth day, and then uses a matching expression to determine their zodiac sign.
 
 ## How to Use
