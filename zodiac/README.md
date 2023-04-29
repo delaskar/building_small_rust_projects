@@ -11,6 +11,3 @@ The program will output your zodiac sign.
 
 ## How it Works
 The program uses a function to prompt the user for input, then creates a vector of zodiac signs. It then enters a loop that asks the user for their name, birth month, and birth day. It converts the birth month and day from a string to an integer, and then uses a matching expression to determine the user's zodiac sign based on their birth date. The program then outputs the user's zodiac sign and asks if they want to see another zodiac sign. If the user enters 'y', the program loops again. If the user enters 'n', the program exits.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
