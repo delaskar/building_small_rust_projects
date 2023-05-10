@@ -13,6 +13,9 @@ Here are the projects included in this repository:
 2. ### Data Users Program
     This is a program that collects data from users through a series of questions and saves the responses to a file. The project includes basic input/output functionality and data structuring.
 
+3. ### The Compress Shattered
+    Compress Shattered is a simple Rust command-line tool for compressing files with the zlib library.
+
 ### How to Build and Run
 To build and run a project, navigate to the project directory and run the following command:
 
