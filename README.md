@@ -16,6 +16,9 @@ Here are the projects included in this repository:
 3. ### The Compress Shattered
     Compress Shattered is a simple Rust command-line tool for compressing files with the zlib library.
 
+4. ### Flappy Dragon
+    This is a simple implementation of the Flappy Dragon game, created using the Rust programming language and the "Hands on Rust" book.
+
 ### How to Build and Run
 To build and run a project, navigate to the project directory and run the following command:
 
@@ -23,5 +26,3 @@ cargo run
 
 This will build and run the project.
 
-### License
-This project is licensed under the MIT License.
